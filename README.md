@@ -1,2 +1,2 @@
 # Retsuko
-![alt text](https://librefinder.co.uk/img/retsuko.png)
+![alt text](https://librefinder.co.uk/images/retsuko.png)
